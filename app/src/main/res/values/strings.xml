@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Azan</string>
+    <string name="initial_text">حان الآن موعد آذان صلاة</string>
+    <string name="stop">إيقاف الصوت</string>
+</resources>
